@@ -6,7 +6,7 @@ Fernando Alves Damaceno Meca
 
 Portifolio criado para facilitar a mostragem do meu aprendizado em TI
 
-:HTML: HTML CSS BOOTSTRAP
+:blush: HTML CSS BOOTSTRAP
 
 https://boitata138.github.io/Portifolio/
 
