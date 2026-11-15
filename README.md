@@ -17,4 +17,4 @@ Projeto feito para aprendizado sobre front end
 
 ·       Explicação de como esse recurso foi implementado
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
