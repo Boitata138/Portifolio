@@ -20,6 +20,6 @@ https://boitata138.github.io/Portifolio/
 
 Projeto feito para aprendizado sobre front end
 
-·       Descrição do recurso novo adicionado
+Altera a foto do perfiil ao passar o mouse por cima
 
 ·       Explicação de como esse recurso foi implementado
