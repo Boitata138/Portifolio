@@ -8,8 +8,10 @@ Portifolio criado para facilitar a mostragem do meu aprendizado em TI
 
 HTML 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+
 CSS
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
 BOOTSTRAP
 [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
