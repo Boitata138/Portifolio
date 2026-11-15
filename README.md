@@ -6,8 +6,7 @@ Fernando Alves Damaceno Meca
 
 Portifolio criado para facilitar a mostragem do meu aprendizado em TI
 
-![HTML5](https://shields.io)  
-![Markdown](https://shields.io) HTML CSS BOOTSTRAP
+(https://img.shields.io/w3c-validation/html) HTML CSS BOOTSTRAP
 
 https://boitata138.github.io/Portifolio/
 
