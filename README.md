@@ -6,7 +6,7 @@ Fernando Alves Damaceno Meca
 
 Portifolio criado para facilitar a mostragem do meu aprendizado em TI
 
-Linguages utilizadas:
+Linguagens utilizadas:
 
 <p align="left">
   <a href="https://skillicons.dev">
