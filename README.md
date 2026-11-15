@@ -17,18 +17,4 @@ Projeto feito para aprendizado sobre front end
 
 ·       Explicação de como esse recurso foi implementado
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Python](https://shields.io)
-![Java](https://shields.io)
-![C#](https://shields.io)
-![PHP](https://shields.io)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
