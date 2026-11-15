@@ -6,14 +6,15 @@ Fernando Alves Damaceno Meca
 
 Portifolio criado para facilitar a mostragem do meu aprendizado em TI
 
-HTML <br>
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+Linguages utilizadas:
 
-CSS <br>
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  </a>
+</p>
 
-BOOTSTRAP <br>
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+
 
 https://boitata138.github.io/Portifolio/
 
