@@ -16,3 +16,7 @@ Projeto feito para aprendizado sobre front end
 ·       Descrição do recurso novo adicionado
 
 ·       Explicação de como esse recurso foi implementado
+
+![Badge](https://shields.io)
+![GitHub](https://shields.io)
+![JavaScript](https://shields.io)
