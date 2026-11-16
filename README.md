@@ -25,3 +25,5 @@ Ela me respondeu um monte de coisa com css, mas queria algo mais basico. Pergunt
 Perguntei de novo, mas agora só coloquei parte do codigo e só a parte que vai a imagem, ele entendeu melhor, porem ainda precisava de css e eu não queria. 
 Então fiz a pergunta que a IA queria "tem algum efeiito mais simples onde eu passe o mouse e a foto mude? somente com bootstrap". **Foi quando ele me passou o comando 
 " onmouseover="this.src='outra-imagem.jpg'" onmouseout="this.src='perfil.jpg'" " e fez o efeito de mudar a imagem passando o mouse por cima.**
+
+Adicionei um link no portifólio academico
