@@ -16,7 +16,7 @@ Linguagens utilizadas:
 
 https://boitata138.github.io/Portifolio/
 
-<font size="5">####Projeto feito para aprendizado sobre front end</font>
+<font size="5">####Projeto feito para aprendizado sobre front end####</font>
 
 
 Mudar a imagem da foto do perfil ao passar o mouse por cima:
