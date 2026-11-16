@@ -11,10 +11,13 @@ Linguagens utilizadas:
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
   </a>
 </p>
+
 --------------------------------------------------------------------------------------
 https://boitata138.github.io/Portifolio/
+
 --------------------------------------------------------------------------------------
-<font size="5">Projeto feito para aprendizado sobre front end</font>
+Projeto feito para aprendizado sobre front end
+
 --------------------------------------------------------------------------------------
 Criei as imagens do carrosel no canvas e adicionei ao projeto
 -
