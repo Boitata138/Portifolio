@@ -20,7 +20,7 @@ Projeto feito para aprendizado sobre front end
 
 Mudar a imagem da foto do perfil ao passar o mouse por cima:
 
-Criei as imagens do carrosel no front end e adicionei no projeto
+Criei as imagens do carrosel no canvas e adicionei ao projeto
 
 Perguntei para IA "estou fazendo um site e preciso alterar a foto do perfil, no caso preciso que ela gire quando eu passar o mouse por ela e viire uma imagem que eu quiser".
 Ela me respondeu um monte de coisa com css, mas queria algo mais basico. Perguntei de novo "pode fazer com bootstrap?", ela fez três versões com css, mas não era o que queria.
