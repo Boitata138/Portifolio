@@ -1,10 +1,8 @@
-README obrigatório
-
-Portifolio para apresentação
+Site Portifolio para apresentação
 
 Fernando Alves Damaceno Meca
 
-Portifolio criado para facilitar a mostragem do meu aprendizado em TI
+Portifolio criado para facilitar e mostrar meu aprendizado em TI
 
 Linguagens utilizadas:
 
